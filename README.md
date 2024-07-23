@@ -1,0 +1,1 @@
+# asd-text-pdf-with-ollama
