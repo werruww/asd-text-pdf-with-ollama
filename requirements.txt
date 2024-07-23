@@ -1,4 +1,6 @@
 pymupdf
+requests
+beautifulsoup4 
 ollama
 chromadb
 ollama
